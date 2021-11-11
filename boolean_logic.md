@@ -7,4 +7,6 @@ NOT(A+B)NOT(A out B)
 NOT((C+NOTB)(A out B))
 ## 1.4
 (C out B)(A out B)+(A out C)
-
+# 2nd question
+![](csimage1.jpeg)
+![](csimage2.jpeg)

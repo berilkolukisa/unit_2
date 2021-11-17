@@ -1,1 +1,1 @@
-![](arduino 3bits.png)
+![](arduino 3bits.PNG)

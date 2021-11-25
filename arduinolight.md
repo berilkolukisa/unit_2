@@ -1,3 +1,4 @@
+```.c
 // C++ code
 //
 int portA=2;

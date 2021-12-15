@@ -16,7 +16,6 @@
 ## The code will firstly get all the numbers in the list and check if they start with a minus or plus. If it does start with a plus the number is directly added to the new list . If it starts with a minus , the function will delet the minus and add it to the new list like that . Laslty the code takes the biggest number in the new list and prints it.
 # Quiz No:9 // Given an array of sorted integers, find the missing number.
 ## The code will take the entered list, and check the first and the last nummber. After that it will create a new list starting with the same number as the entered one and also ending with the same last number. It will add all the elements of this list together and save it as 'sum'. Lastly , it will also add all the elements in the first entered list and save it as 'sum2'. To print the answer, the code will do 'sum-sum2'.
-
 ## Quiz No:10
 
 ## Quiz No:11

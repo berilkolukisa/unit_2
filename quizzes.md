@@ -16,20 +16,20 @@
 ## The code will firstly get all the numbers in the list and check if they start with a minus or plus. If it does start with a plus the number is directly added to the new list . If it starts with a minus , the function will delet the minus and add it to the new list like that . Laslty the code takes the biggest number in the new list and prints it.
 # Quiz No:9 // Given an array of sorted integers, find the missing number.
 ## The code will take the entered list, and check the first and the last nummber. After that it will create a new list starting with the same number as the entered one and also ending with the same last number. It will add all the elements of this list together and save it as 'sum'. Lastly , it will also add all the elements in the first entered list and save it as 'sum2'. To print the answer, the code will do 'sum-sum2'.
-## Quiz No:10
+# Quiz No:10 // Given an array of sorted integers, find the largest difference between neighbouring numbers.
+## The code will take each number in the entered list individually. After that we will create a variable called 'largest_dif' . As we subtract each neighboring number, we will assign the result as the new variable ( if it is bigger than the previous one). Lastly, we will print the variable, 'largest_dif'. 
+# Quiz No:11 Given an array of numbers, output TRUE if the array is length 1 or more, and the first element and the last element are equal. Otherwise output FALSE.
+## The code will check if the entered list's lenght is >1. If it is not it will print 'FALSE'. If it is is bigger than 1 it will assign the first and the last terms to the variables first_term and last_term. Lastly if first_term = last_term the code will print 'TRUE'. Else it will print 'FALSE'.
+# Quiz No:12
 
-## Quiz No:11
+# Quiz No:13
 
-## Quiz No:12
+# Quiz No:14
 
-## Quiz No:13
+# Quiz No:15
 
-## Quiz No:14
+# Quiz No:16
 
-## Quiz No:15
+# Quiz No:17
 
-## Quiz No:16
-
-## Quiz No:17
-
-## Quiz No:18
+# Quiz No:18

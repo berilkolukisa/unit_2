@@ -1,7 +1,7 @@
-## Quiz No:1
-# The code will take A and b as individual variables and decide if they are =20. If one of them is =20, the code will print 'TRUE'. Otherwise it will check if A+B=20, and if yes it will print 'TRUE'. If all of them is wrong, it will print 'FALSE'.
-## Quiz No:2
-# The code will take A, B and C individually and list them from smallest to biggest. After that it will take the biggest and the smallest ones and extract those ; and print it as a answer .
+# Quiz No:1
+## The code will take A and b as individual variables and decide if they are =20. If one of them is =20, the code will print 'TRUE'. Otherwise it will check if A+B=20, and if yes it will print 'TRUE'. If all of them is wrong, it will print 'FALSE'.
+# Quiz No:2
+## The code will take A, B and C individually and list them from smallest to biggest. After that it will take the biggest and the smallest ones and extract those ; and print it as a answer .
 ## Quiz No:3
 
 ## Quiz No:4

@@ -4,8 +4,9 @@
 ## The code will take A, B and C individually and list them from smallest to biggest. After that it will take the biggest and the smallest ones and extract those ; and print it as a answer .
 ## Quiz No:3
 
-## Quiz No:4
-
+# Quiz No:4
+## Write a function that receives an integer N, and returns all its factors.//
+## This code 
 ## Quiz No:5
 
 ## Quiz No:6

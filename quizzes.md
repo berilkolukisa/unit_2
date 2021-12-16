@@ -30,6 +30,6 @@
 ## ?
 # Quiz No:16
 
-# Quiz No:17
-
+# Quiz No:17 // Write a function that checks if a triangle can be built using three integers a, b, c, which are the sides of the triangles
+##  The code will take any number as a, b and c. After that it will check if a+b>c>a-b. If this formula works for every a, b and c possibility the code will print 'TRUE'. Else, it will print 'FALSE'.
 # Quiz No:18

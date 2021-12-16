@@ -20,14 +20,14 @@
 ## The code will take each number in the entered list individually. After that we will create a variable called 'largest_dif' . As we subtract each neighboring number, we will assign the result as the new variable ( if it is bigger than the previous one). Lastly, we will print the variable, 'largest_dif'. 
 # Quiz No:11 Given an array of numbers, output TRUE if the array is length 1 or more, and the first element and the last element are equal. Otherwise output FALSE.
 ## The code will check if the entered list's lenght is >1. If it is not it will print 'FALSE'. If it is is bigger than 1 it will assign the first and the last terms to the variables first_term and last_term. Lastly if first_term = last_term the code will print 'TRUE'. Else it will print 'FALSE'.
-# Quiz No:12
-
-# Quiz No:13
-
-# Quiz No:14
-
-# Quiz No:15
-
+# Quiz No:12 // Given an list of words, find the average word length.
+## The code will create two variableb which are word_lenght and word_ counter. After taking in the list of words, firstly it would slice it individually. After that , it would count how many slices we did +1 and set this as word_counter. Thirdly, it would take each words lenght individually and add this to word_lenght. Lastly it would word_lenght/word_counter and print it.
+# Quiz No:13 // Given an array of food items and price, calculate the total price based on the table of tax categories below:
+## The code will have premade lists of the things that are priced (food,electronics etc.) And for every word that in entered, the code will check which category it fits. After thatfor every percentage of each list (food %10, electronics %25 etc) the code will duplicate it with the price that was entered for the list and print it.
+# Quiz No:14 // Given three ints, a b c, one of them is small, one is medium and one is large. Return true if the three values are evenly spaced, so the difference between small and medium is the same as the difference between medium and large. 
+## The code will have 3 variables : small_n mid_n and big_n. It will take the numbers as a group of two. It will take the first group of the two and set the smaller number as the small_n and the bigger one as big_n. After that it will take the other group and check if one of the numbers are bigger than big_n or smaller than small_n. If yes it will set the numbers as the new ones. After that the code will do small_n - middle_n and set it as the difference_1. It will set the difference between middle_n and big_n as difference_2. If diffeence_1 = difference_2 it will print 'true'. Else it will print 'false'.
+# Quiz No:15 // Reverse Mode: Given the input/outputs shown, create the program that produces the output. 
+## ?
 # Quiz No:16
 
 # Quiz No:17
